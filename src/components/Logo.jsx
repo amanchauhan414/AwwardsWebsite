@@ -88,14 +88,14 @@ const Logo = () => {
       <div className='bar-nav'>
         <ul>
          <img className="logo-av" src={imga} alt="" />
-         <a className="home-nav" href="https://www.instagram.com/chaniru.lk/">- home</a>
-         <li><a href="https://www.instagram.com/chaniru.lk/">litepaper</a></li>
-         <li><a href="https://www.instagram.com/chaniru.lk/">team</a></li> 
-         <li><a href="https://www.instagram.com/chaniru.lk/">faq</a></li>
-         <li><a href="https://www.instagram.com/chaniru.lk/">Roadmap</a></li>
-         <li><a href="https://www.instagram.com/chaniru.lk/">Collection</a></li>
-         <li><a href="https://www.instagram.com/chaniru.lk/">About</a></li>
-         <li><a href="https://www.instagram.com/chaniru.lk/">Demo</a></li>
+         <a className="home-nav" href="https://www.instagram.com/">- home</a>
+         <li><a href="https://www.instagram.com/">litepaper</a></li>
+         <li><a href="https://www.instagram.com/">team</a></li> 
+         <li><a href="https://www.instagram.com/">faq</a></li>
+         <li><a href="https://www.instagram.com/">Roadmap</a></li>
+         <li><a href="https://www.instagram.com/">Collection</a></li>
+         <li><a href="https://www.instagram.com/">About</a></li>
+         <li><a href="https://www.instagram.com/">Demo</a></li>
 
         </ul>
       </div>

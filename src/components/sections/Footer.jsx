@@ -54,15 +54,15 @@ const Footer = () => {
        data-scroll
        data-scroll-delay=".15"
        data-scroll-speed="1">
-          <a className='last-link' href="https://www.instagram.com/chaniru.lk/"><span className="sml-last">N1 </span>Home</a>
-          <a className='last-link' href="https://www.instagram.com/chaniru.lk/"><span className="sml-last">N2 </span>lite-paper</a>
-          <a className='last-link-un' href="https://www.instagram.com/chaniru.lk/"><span className="sml-last">soon </span>mint</a>
+          <a className='last-link' href="https://www.instagram.com/"><span className="sml-last">N1 </span>Home</a>
+          <a className='last-link' href="https://www.instagram.com"><span className="sml-last">N2 </span>lite-paper</a>
+          <a className='last-link-un' href="https://www.instagram.com"><span className="sml-last">soon </span>mint</a>
       </LeftContainer>
       <RightContainer
        data-scroll
        data-scroll-delay=".15"
        data-scroll-speed="1">
-      <a href="https://www.instagram.com/chaniru.lk/" className="credit-outbox">site by - chaniru.lk</a>
+      <a href="https://www.instagram.com/" className="credit-outbox">site by -Aman Chauhan</a>
       </RightContainer>
       <div className="lgo">
         <img src={logo01} alt="" />
